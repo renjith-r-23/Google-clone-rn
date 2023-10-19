@@ -1,4 +1,4 @@
-/* Updated CSS for a professional Google clone */
+/* Updated CSS for a professional Google clone with violet changed to orange */
 * {
   margin: 0;
   padding: 0;
@@ -51,7 +51,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #4285f4; /* Google's blue */
+  background: #ff5722; /* Change to orange */
   border-radius: 50%;
   font-size: 2rem;
   color: white;
